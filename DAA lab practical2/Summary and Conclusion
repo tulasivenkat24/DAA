@@ -1,0 +1,15 @@
+Sumamry :
+      In this practical we have done linear search and binary search using python.The programs take
+      input from the user,search for a given element,and display whether  the element is found or 
+      not.They also measure the excution time to show how long the search takes.Linear search checks 
+      each element one by one and works with any list, while binary search is faster but requires the 
+      list to be sorted.
+
+
+
+      Conclusion:
+        Both linear search and bianry search are useful searching techniques.linear search is easy to
+        understand and can be used with any list,but is slower for amounts of data.Bianry search is mu-
+        -ch faster because it divides the search into smaller parts,but it only works on sorted data.By
+        comapring these two methods,we can understand when to use each search algorithms based on the 
+        type of data and the rquired speed.
